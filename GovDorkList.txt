@@ -1,0 +1,84 @@
+sqli dork for .gov
+
+inurl:index.php?id= site:*gov.il
+inurl:index.php?id= site:*gov
+inurl:news.php?id= site:*gov.il
+inurl:oferta.php?id= site:*gov.il
+inurl:trainers.php?id= site:*gov.il
+inurl:article.php?ID= site:*gov.il
+inurl:play_old.php?id= site:*gov.il
+inurl:declaration_more.php?decl_id= site:*gov.il
+inurl:Pageid= site:*gov
+inurl:pagina.php?left= site:*.gov.il
+inurl:layout.php?id=120'= site:*gov.il
+inurl:principal.php?id=123'= site:*gov.il
+inurl:standard.php?base_dir= site:*il
+inurl:home.php?where= site:*gov.il
+inurl:page.php?sivu= site:*.il
+inurl:*inc*.php?adresa= site:*gov
+inurl:padrao.php?str= site:*gov
+inurl:include.php?my= site:*.gov.il
+inurl:show.php?home= site:*gov.il
+inurl:index.php?lid=20= site:*gov.il
+inurl:principal.php?id=30= site:*gov
+inurl:file.php?id=205= site:*gov.il
+inurl:info.php?id=25155= site:*gov.il
+inurl:enter.php?id=203= site:*gov.il
+inurl:general.php?id=50= site:*gov
+inurl:principal.php?id=705= site:*gov.il
+inurl:standard.php?id=303= site:*.gov.il
+nurl:nota.php?v= site:*gov.bc.il
+inurl:home.php?str= site:*ed.gov
+inurl:press.php?panel= site:*gov.il
+inurl:page.php?mod= site:*gov
+inurl:default.php?param= site:*gov
+inurl:down*.php?texto= site:*go.il
+inurl:mod*.php?dir= site:*gov.il
+inurl:view.php?where= site:*gov.il
+inurl:blank.php?subject= site:*gov.il
+inurl:path.php?play= site:*gov.il
+inurl:base.php?l= site:*gov.il
+CATEGORIES: SQL INJECTION
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_fetch_assoc()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_fetch_array()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_num_rows()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: session_start()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: getimagesize()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: is_writable()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: unknown()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_result()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: pg_exec()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_query()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: array_merge()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: Preg_match()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: filesize()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: require()
+site:gov. +inurl:php?pageid=
+Dorks: site:gov. +inurl:php?id=
+Dorks: site:gov. result +inurl:php?id=
+Dorks: site:gov. +inurl:php?item=
+Dorks: site:gov. +inurl:php? order =
+Dorks: site:gov. +inurl:php? list =
+Dorks: site:gov. +inurl:php?home =
+Dorks: site:gov. home +inurl:php? *=
+Dorks: site:gov. home +inurl:pag? *=
+inurl:"id=" & intext:"Warning: preg_match() " site:.
+inurl:"id=" & intext:"Warning: ilesize() " site:.
+inurl:"id=" & intext:"Warning: filesize() " site:.
+inurl:"id=" & intext:"Warning: require() " site:.
+inurl:"id=" & intext:"Warning: mysql_fetch_assoc() " site:.
+inurl:"id=" & intext:"Warning: mysql_fetch_assoc() " site:.
+inurl:"id=" & intext:"Warning: mysql_fetch_assoc() " site:.
+inurl:"id=" & intext:"Warning: mysql_fetch_array() " site:
+inurl:"id=" & intext:"Warning: mysql_num_rows() " site:.
+inurl:"id=" & intext:"Warning: session_start() " site:.
+inurl:"id=" & intext:"Warning: getimagesize() " site:.
+inurl:"id=" & intext:"Warning: is_writable() " site:.il
+inurl:"id=" & intext:"Warning: getimagesize() " site:.
+inurl:"id=" & intext:"Warning: Unknown() " site:.
+inurl:"id=" & intext:"Warning: session_start() " site:.
+inurl:"id=" & intext:"Warning: mysql_result() " site:.
+inurl:"id=" & intext:"Warning: pg_exec() " site:.il
+inurl:"id=" & intext:"Warning: mysql_result() " site:.
+inurl:"id=" & intext:"Warning: mysql_num_rows() " site:.
+

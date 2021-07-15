@@ -1,0 +1,83 @@
+sqli dork for .gov
+inurl:index.php?id= site:.gov.ng
+inurl:index.php?id= site:*gov
+inurl:news.php?id= site:.gov.ng
+inurl:oferta.php?id= site:.gov.ng
+inurl:trainers.php?id= site:.gov.ng
+inurl:article.php?ID= site:.gov.ng
+inurl:play_old.php?id= site:.gov.ng
+inurl:declaration_more.php?decl_id= site:.gov.ng
+inurl:Pageid= site:*gov
+inurl:pagina.php?left= site:*.gov.ng
+inurl:layout.php?id=120'= site:.gov.ng
+inurl:principal.php?id=123'= site:.gov.ng
+inurl:standard.php?base_dir= site:.ng
+inurl:home.php?where= site:.gov.ng
+inurl:page.php?sivu= site:*.ng
+inurl:*inc*.php?adresa= site:*gov
+inurl:padrao.php?str= site:*gov
+inurl:include.php?my= site:*.gov.ng
+inurl:show.php?home= site:.gov.ng
+inurl:index.php?lid=20= site:.gov.ng
+inurl:principal.php?id=30= site:*gov
+inurl:.nge.php?id=205= site:.gov.ng
+inurl:info.php?id=25155= site:.gov.ng
+inurl:enter.php?id=203= site:.gov.ng
+inurl:general.php?id=50= site:*gov
+inurl:principal.php?id=705= site:.gov.ng
+inurl:standard.php?id=303= site:*.gov.ng
+nurl:nota.php?v= site:*gov.bc.ng
+inurl:home.php?str= site:*ed.gov
+inurl:press.php?panel= site:.gov.ng
+inurl:page.php?mod= site:*gov
+inurl:default.php?param= site:*gov
+inurl:down*.php?texto= site:*go.ng
+inurl:mod*.php?dir= site:.gov.ng
+inurl:view.php?where= site:.gov.ng
+inurl:blank.php?subject= site:.gov.ng
+inurl:path.php?play= site:.gov.ng
+inurl:base.php?l= site:.gov.ng
+CATEGORIES: SQL INJECTION
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_fetch_assoc()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_fetch_array()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_num_rows()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: session_start()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: getimagesize()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: is_writable()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: unknown()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_result()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: pg_exec()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: mysql_query()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: array_merge()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: Preg_match()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: .ngesize()
+inurl:"gov.br" & inurl:"id=" & intext:"warning: require()
+site:gov. +inurl:php?pageid=
+Dorks: site:gov. +inurl:php?id=
+Dorks: site:gov. result +inurl:php?id=
+Dorks: site:gov. +inurl:php?item=
+Dorks: site:gov. +inurl:php? order =
+Dorks: site:gov. +inurl:php? list =
+Dorks: site:gov. +inurl:php?home =
+Dorks: site:gov. home +inurl:php? *=
+Dorks: site:gov. home +inurl:pag? *=
+inurl:"id=" & intext:"Warning: preg_match() " site:.
+inurl:"id=" & intext:"Warning:.ngesize() " site:.
+inurl:"id=" & intext:"Warning: .ngesize() " site:.
+inurl:"id=" & intext:"Warning: require() " site:.
+inurl:"id=" & intext:"Warning: mysql_fetch_assoc() " site:.
+inurl:"id=" & intext:"Warning: mysql_fetch_assoc() " site:.
+inurl:"id=" & intext:"Warning: mysql_fetch_assoc() " site:.
+inurl:"id=" & intext:"Warning: mysql_fetch_array() " site:
+inurl:"id=" & intext:"Warning: mysql_num_rows() " site:.
+inurl:"id=" & intext:"Warning: session_start() " site:.
+inurl:"id=" & intext:"Warning: getimagesize() " site:.
+inurl:"id=" & intext:"Warning: is_writable() " site:.ng
+inurl:"id=" & intext:"Warning: getimagesize() " site:.
+inurl:"id=" & intext:"Warning: Unknown() " site:.
+inurl:"id=" & intext:"Warning: session_start() " site:.
+inurl:"id=" & intext:"Warning: mysql_result() " site:.
+inurl:"id=" & intext:"Warning: pg_exec() " site:.ng
+inurl:"id=" & intext:"Warning: mysql_result() " site:.
+inurl:"id=" & intext:"Warning: mysql_num_rows() " site:.
+
